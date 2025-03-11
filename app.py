@@ -4,7 +4,6 @@ import psycopg2
 from datetime import datetime, timedelta
 import os
 from dotenv import load_dotenv
-import requests
 
 # Load environment variables
 load_dotenv()
@@ -17,6 +16,16 @@ DB_PARAMS = {
     "host": os.getenv("PG_HOST"),
     "port": os.getenv("PG_PORT"),
 }
+
+
+def get_user_ip():
+    headers = st.context.headers  # Get request headers
+    if headers:
+        if "X-Forwarded-For" in headers:
+            return headers["X-Forwarded-For"].split(",")[0]  # Extract client IP
+        elif "REMOTE_ADDR" in headers:
+            return headers["REMOTE_ADDR"]  # Fallback for direct requests
+    return "Unable to retrieve IP"
 
 
 def connect_to_db():
@@ -64,7 +73,7 @@ def query_sentiment_data(start_date, end_date, source):
 
 def main():
     st.title("Trends Analytics")
-
+    st.write("User IP:", get_user_ip())
     # Set default date range (yesterday to now)
     now = datetime.now()
     yesterday = now - timedelta(days=1)
