@@ -44,7 +44,7 @@ def query_sentiment_data(start_date, end_date, source):
 
     try:
         query = f"""
-            SELECT * FROM trends.analytics
+            SELECT query, source, queried_at FROM trends.analytics
             WHERE {subquery} AND queried_at BETWEEN %s AND %s
             ORDER BY queried_at DESC
         """
