@@ -2,7 +2,7 @@ neo4j
 junglescout-client
 python-dotenv
 sqlalchemy
-psycopg2
+psycopg2-binary
 streamlit
 pandas
 pytz
