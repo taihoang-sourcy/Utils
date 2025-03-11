@@ -18,15 +18,6 @@ DB_PARAMS = {
 }
 
 
-def get_user_ip():
-    headers = st.context.headers  # Get request headers
-    if headers:
-        if "X-Forwarded-For" in headers:
-            return headers["X-Forwarded-For"].split(",")[0]  # Extract client IP
-        elif "REMOTE_ADDR" in headers:
-            return headers["REMOTE_ADDR"]  # Fallback for direct requests
-    return "Unable to retrieve IP"
-
 
 def connect_to_db():
     """Establish connection to PostgreSQL database"""
@@ -53,7 +44,7 @@ def query_sentiment_data(start_date, end_date, source):
 
     try:
         query = f"""
-            SELECT query, source, queried_at FROM trends.analytics
+            SELECT query, source, ip, queried_at FROM trends.analytics
             WHERE {subquery} AND queried_at BETWEEN %s AND %s
             ORDER BY queried_at DESC
         """
@@ -73,7 +64,6 @@ def query_sentiment_data(start_date, end_date, source):
 
 def main():
     st.title("Trends Analytics")
-    st.write("User IP:", get_user_ip())
     # Set default date range (yesterday to now)
     now = datetime.now()
     yesterday = now - timedelta(days=1)
