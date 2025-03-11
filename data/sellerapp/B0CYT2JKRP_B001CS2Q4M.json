@@ -1,0 +1,208 @@
+[
+    {
+        "product_attributes": {
+            "asin": "B001CS2Q4M",
+            "title": "Bickmore Bick 4 Leather Conditioner 236 ml - Best Since 1882 - Leather Cleaner \u0026 Conditioner - Restore Polish \u0026 Protect Your Leather",
+            "image_urls": [
+                "https://m.media-amazon.com/images/I/41dEke6KYBL.jpg",
+                "https://m.media-amazon.com/images/I/51BABCspRmL.jpg",
+                "https://m.media-amazon.com/images/I/41tHIRHP7VL.jpg",
+                "https://m.media-amazon.com/images/I/41CwuhZDw5L.jpg",
+                "https://m.media-amazon.com/images/I/41tQzI3EbpL.jpg",
+                "https://m.media-amazon.com/images/I/51-WFwZp3OL.jpg",
+                "https://m.media-amazon.com/images/I/61lY8UoGKhL.jpg"
+            ],
+            "brand": "Bickmore",
+            "category": null,
+            "bsr": [
+                {
+                    "node_id": "303923031",
+                    "name": "Car Leather \u0026 Upholstery Cleaner",
+                    "rank": 52,
+                    "level": -1
+                },
+                {
+                    "node_id": "-1",
+                    "name": "Automotive",
+                    "rank": 2076,
+                    "level": 1
+                }
+            ],
+            "date_first_available": "",
+            "description": "",
+            "key_points": [
+                "PREMIUM LEATHER CONDITIONER SINCE 1882: Bickmore Bick 4 Leather Conditioner cleans, polishes, and protects all types of leather products such as boots, shoes, jackets, purses, handbags, furniture \u0026 upholstery, car interiors, motorcycle seats, equestrian equipment such as saddles and tack, any exotic leather products, and more. Our time tested formula is proven to extend the life of all your most precious leather products.",
+                "WILL NOT DARKEN YOUR LEATHER: Unlike most leather conditioners, Bick 4 Leather Conditioner will NOT darken your leather. It’s perfect for restoring old, worn leathers to their original shine, and keeping your new leather products in the same shade that you bought them. Ideal for keeping all smooth and finished leather soft without compromising breathability.",
+                "COMPLETELY WAX FREE: Unlike other brands, Bick 4 is a completely wax-free product. This ensures that the leather pores will not seal up, keeping your leather soft and able to breathe. It will not leave any trace of sticky or gummy residue.",
+                "SIMPLE ONE STEP APPLICATION PROCESS: Our formula is easy to apply and conditions your favorite leathers with ease. Bickmore Bick 4 is your all-in-one complete leather care product.",
+                "MADE IN THE USA: Bickmore is proud to produce all Bick 4 Leather Conditioner in the United States of America."
+            ],
+            "manufacturer": "Bickmore",
+            "url": "https://www.amazon.co.uk/dp/B001CS2Q4M",
+            "number_of_sellers": 0,
+            "relationships": [
+                {
+                    "marketplaceId": "A1F83G8C2ARO7P",
+                    "relationships": [
+                        {
+                            "parentAsins": [
+                                "B07GX11935"
+                            ],
+                            "type": "VARIATION",
+                            "variationTheme": {
+                                "attributes": [
+                                    "size"
+                                ],
+                                "theme": "SIZE_NAME"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "price_details": {
+            "landed_price_new": 21.99,
+            "listing_price_new": 21.99,
+            "points_new": {
+                "points_monetary_value": {}
+            },
+            "points_used": {
+                "points_monetary_value": {}
+            },
+            "currency_code": "GBP"
+        },
+        "product_potential": {
+            "sales_estimate_low": 6,
+            "sales_estimate_high": 9,
+            "revenue_estimate_low": 0,
+            "revenue_estimate_high": 0
+        },
+        "product_specifications": {
+            "gtin_code": "00751241000037",
+            "upc_code": [
+                "751241000037",
+                "751241100096"
+            ],
+            "is_adult_product": false,
+            "model_number": "10FPR107",
+            "part_number": "FBA_10FPR107",
+            "parent_asins": [
+                "B07GX11935"
+            ],
+            "number_of_items": 1,
+            "batteries_required": false,
+            "package_dimensions": {
+                "height": 1.81,
+                "length": 6.59,
+                "weight": 0.55,
+                "width": 1.85,
+                "length_unit": "inches",
+                "weight_unit": "pounds"
+            },
+            "item_dimensions": {
+                "height": 6,
+                "length": 2,
+                "weight": 0.5,
+                "width": 2,
+                "length_unit": "inches",
+                "weight_unit": "pounds"
+            }
+        },
+        "ratings": {
+            "ratings": 0,
+            "number_of_ratings": 0
+        }
+    },
+    {
+        "product_attributes": {
+            "asin": "B0CYT2JKRP",
+            "title": "HOMEXCEL Grey Microfiber Car Cleaning Cloths, 12 Pack, 12.5 x 12.5 Inch, Ultra Absorbent",
+            "image_urls": [
+                "https://m.media-amazon.com/images/I/81Fcz9Q4NpL.jpg",
+                "https://m.media-amazon.com/images/I/71v7p1MTfOL.jpg",
+                "https://m.media-amazon.com/images/I/61PODadnbLL.jpg",
+                "https://m.media-amazon.com/images/I/61lYsHq07NL.jpg",
+                "https://m.media-amazon.com/images/I/61tARmdYvBL.jpg",
+                "https://m.media-amazon.com/images/I/614XDccBhHL.jpg",
+                "https://m.media-amazon.com/images/I/71qgfZyqz3L.jpg"
+            ],
+            "brand": "HOMEXCEL",
+            "category": null,
+            "bsr": null,
+            "date_first_available": "",
+            "description": "",
+            "key_points": [
+                "Unparalleled Cleaning Performance: Our microfiber towels provide outstanding water absorption and adhesion. They effortlessly absorb dirt and liquid, delivering exceptional cleaning results that will leave your car looking brand new.",
+                "No Scratching: Our microfiber cleaning cloths are made from incredibly soft fabric, providing gentle care for your car. They delicately wipe surfaces without scratching or damaging the paint, restoring your car's shine.",
+                "Versatile Applications: In addition to being the go-to choice for exterior car care, our cleaning rags are also suitable for various applications. You can use them for household cleaning, such as wiping furniture, kitchen utensils, and glass surfaces.",
+                "Easy to Clean and Long-lasting: Our cleaning cloths are designed to withstand repeated use and washing. They are made from high-quality microfiber materials that maintain their performance and quality even after multiple washes. The towels are machine washable, and they dry quickly, allowing for convenient and efficient cleaning.",
+                "HOMEXCEL's Mission: Add our microfiber towel to your household cleaning supply arsenal. Step into a world of clean comfort with HOMEXCEL microfiber towel."
+            ],
+            "manufacturer": "HOMEXCEL",
+            "url": "https://www.amazon.co.uk/dp/B0CYT2JKRP",
+            "number_of_sellers": 0,
+            "relationships": [
+                {
+                    "marketplaceId": "A1F83G8C2ARO7P",
+                    "relationships": [
+                        {
+                            "parentAsins": [
+                                "B0D81BFRBW"
+                            ],
+                            "type": "VARIATION",
+                            "variationTheme": {
+                                "attributes": [
+                                    "color",
+                                    "size"
+                                ],
+                                "theme": "COLOR_NAME/SIZE_NAME"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "price_details": {
+            "points_new": {
+                "points_monetary_value": {}
+            },
+            "points_used": {
+                "points_monetary_value": {}
+            }
+        },
+        "product_potential": {
+            "sales_estimate_low": 0,
+            "sales_estimate_high": 0,
+            "revenue_estimate_low": 0,
+            "revenue_estimate_high": 0
+        },
+        "product_specifications": {
+            "gtin_code": "",
+            "upc_code": null,
+            "is_adult_product": false,
+            "model_number": "266",
+            "part_number": "JP-059",
+            "parent_asins": [
+                "B0D81BFRBW"
+            ],
+            "number_of_items": 12,
+            "batteries_required": false,
+            "package_dimensions": {
+                "height": 0.51,
+                "length": 12.91,
+                "weight": 0.64,
+                "width": 9.21,
+                "length_unit": "inches",
+                "weight_unit": "pounds"
+            },
+            "item_dimensions": {
+                "height": 0.19685039,
+                "length": 12.5,
+                "weight": 0,
+                "width": 12.5,
+                "length_unit": "inches",
+                "weight_unit": ""
+            }
+        }
+    }
+]

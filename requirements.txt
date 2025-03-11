@@ -1,0 +1,8 @@
+neo4j
+junglescout-client
+python-dotenv
+sqlalchemy
+psycopg2
+streamlit
+pandas
+pytz

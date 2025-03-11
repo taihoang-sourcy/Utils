@@ -1,0 +1,72 @@
+[
+    {
+        "product_attributes": {
+            "asin": "B01FKQVZOS",
+            "title": "BDK PolyPro Car Seat Covers Full Set in Charcoal on Black – Front and Rear Split Bench Car Seat Cover, Easy to Install, Interior Covers for Auto Truck Van SUV",
+            "image_urls": [
+                "https://m.media-amazon.com/images/I/61S7LwAV00L.jpg",
+                "https://m.media-amazon.com/images/I/81zwgEbQ7nL.jpg",
+                "https://m.media-amazon.com/images/I/71l3f96hADL.jpg",
+                "https://m.media-amazon.com/images/I/81U+J6e4BwL.jpg",
+                "https://m.media-amazon.com/images/I/81aqvOs6ByL.jpg",
+                "https://m.media-amazon.com/images/I/7149AA+eYkL.jpg",
+                "https://m.media-amazon.com/images/I/61wcvEd1HuL.jpg",
+                "https://m.media-amazon.com/images/I/815cAErwQWL.jpg",
+                "https://m.media-amazon.com/images/I/717QEN-HC8L.jpg"
+            ],
+            "brand": "BDK",
+            "category": null,
+            "bsr": [
+                {
+                    "node_id": "303636031",
+                    "name": "Car Seat Cover Sets",
+                    "rank": 244,
+                    "level": -1
+                },
+                {
+                    "node_id": "-1",
+                    "name": "Automotive",
+                    "rank": 27790,
+                    "level": 1
+                }
+            ],
+            "date_first_available": "2016-10-06",
+            "description": "",
+            "key_points": [
+                "PROTECTS AGAINST STAINS – These are the perfect seat covers for your new car, or even a car that’s just new-to-you. Our car seat covers provide protection against spills and stains that might occur inside of your vehicle.",
+                "BREATHABLE MATERIALS – We use specially selected materials for maximum comfort during your daily commute. The high-quality poly outer layer provides enhanced ventilation so that you stay cool and comfortable during your drive.",
+                "STYLISH DESIGN – Refresh the look of your vehicle and turn some heads along the way. This full set of seat covers features a stylish two-tone design with stitched accents, making it easy to add a splash of color to your interior.",
+                "EASY TO INSTALL – The best investment for your new vehicle might also be the quickest. Follow our simple 3-step installation process to install the front seat covers before finishing off with the rear bench seat cover and headrest covers.",
+                "UNIVERSAL FIT – Our seat covers are designed to fit most vehicles including cars, trucks, vans and SUVs. Please see our product images for fitment examples. Some additional work may be required to create a ‘perfect’ fit."
+            ],
+            "manufacturer": "BDK",
+            "url": "https://www.amazon.co.uk/dp/B01FKQVZOS",
+            "number_of_sellers": 0,
+            "relationships": [
+                {
+                    "marketplaceId": "A1F83G8C2ARO7P",
+                    "relationships": [
+                        {
+                            "parentAsins": [
+                                "B08GZ19HDJ"
+                            ],
+                            "type": "VARIATION",
+                            "variationTheme": {
+                                "attributes": [
+                                    "color"
+                                ],
+                                "theme": "COLOR_NAME"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "product_potential": {
+            "sales_estimate_low": 0,
+            "sales_estimate_high": 1,
+            "revenue_estimate_low": 0,
+            "revenue_estimate_high": 0
+        }
+    }
+]

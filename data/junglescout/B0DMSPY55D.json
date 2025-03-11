@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "id": "us/B0DMSPY55D",
+            "type": "sales_estimate_result",
+            "attributes": {
+                "asin": "B0DMSPY55D",
+                "is_parent": false,
+                "is_variant": true,
+                "is_standalone": false,
+                "parent_asin": "B0DMRXQGQK",
+                "variants": [],
+                "data": [
+                    {
+                        "date": "2025-02-06",
+                        "estimated_units_sold": 2,
+                        "last_known_price": 28.99
+                    }
+                ]
+            }
+        }
+    ],
+    "links": null,
+    "meta": null
+}
