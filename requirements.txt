@@ -6,3 +6,4 @@ psycopg2
 streamlit
 pandas
 pytz
+requests
