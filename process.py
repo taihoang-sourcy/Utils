@@ -42,7 +42,7 @@ def get_postgres_data(source):
                 FROM amz.products p
                 JOIN amz.bestsellers_products bp
                     ON p.asin = bp.product_asin
-                where bp.bestseller_id in (262, 263)
+                -- where bp.bestseller_id = 3096
                 ORDER BY id;
             """,
             # "tiktok": "",
@@ -143,6 +143,7 @@ def process_data(source):
     LEFT JOIN read_csv_auto('{loaded}') as l
     ON o.id = l.id
     WHERE l.id is null
+    -- ORDER BY RANDOM()
     """
 
     try:
